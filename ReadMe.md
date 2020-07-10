@@ -10,6 +10,10 @@ Usando calculo heuristico dentro de uma matriz limitada (19 linhas x19 colunas) 
 
 Em 99 estão todos os obstaculos, 0 é o objetivo e todos os outros valores são os pesos caso a partícula saia daquele ponto e queira chegar no objetivo. Se o ponto tem peso 35 ele obrigatoriamente percorrerá 35 casas até chegar no objetivo
 
+## Grid effect
+
+Um simples efeito de grid para deixar o fundo mais bonito :)
+
 ![Efeito de grid dado no código](medias/grid-effect.gif)
 
 ## Robot Tracking
